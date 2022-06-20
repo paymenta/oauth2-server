@@ -1,5 +1,11 @@
 # fork info
 
+This project was forked from two repos:
+- [Original Project]('https://github.com/oauthjs/node-oauth2-server')
+- [Fork That implemented passing request context to model handlers]('https://github.com/diegosucaria/node-oauth2-server')
+
+# Original Fork Info
+
 On this fork of oauth2-server I've modified the function prototypes to include an extra optional parameter: `req`
 It is intended to pass the express request context to the internal model functions, which will allow for example to use a distributed logging solution.
 
