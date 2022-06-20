@@ -1,8 +1,8 @@
 # fork info
 
 This project was forked from two repos:
-- [Original Project]('https://github.com/oauthjs/node-oauth2-server')
-- [Fork That implemented passing request context to model handlers]('https://github.com/diegosucaria/node-oauth2-server')
+- Original Project - https://github.com/oauthjs/node-oauth2-server
+- Fork That implemented passing request context to model handlers- https://github.com/diegosucaria/node-oauth2-server
 
 # Original Fork Info
 
