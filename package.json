@@ -1,7 +1,7 @@
 {
   "name": "paymenta-oauth2-server",
   "description": "Fork of oauthjs/node-oauth2-server",
-  "version": "3.1.1",
+  "version": "3.1.2",
   "keywords": [
     "oauth",
     "oauth2"
